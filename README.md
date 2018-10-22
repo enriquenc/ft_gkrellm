@@ -11,7 +11,10 @@ In graphical mode, monitor will display in its own window. Used SDL.
 
 ## Getting Started
 
-![ScreenShot]()
+![ScreenShot](https://i.imgur.com/z5bwyEj.png)
+![ScreenShot](https://i.imgur.com/21gnBpR.png)
+![ScreenShot](https://i.imgur.com/wjeLJFe.png)
+![ScreenShot](https://i.imgur.com/5Mr3kUZ.png)
 
 ## Authors
 
